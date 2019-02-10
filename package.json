@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-thejohnfreeman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The tslint configuration of John Freeman.",
   "main": "tslint.json",
   "repository": {
