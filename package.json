@@ -1,0 +1,31 @@
+{
+  "name": "tslint-config-thejohnfreeman",
+  "version": "1.0.0",
+  "description": "The tslint configuration of John Freeman.",
+  "main": "tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thejohnfreeman/tslint-config-thejohnfreeman.git"
+  },
+  "keywords": [
+    "tslint"
+  ],
+  "author": "John Freeman <jfreeman08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejohnfreeman/tslint-config-thejohnfreeman/issues"
+  },
+  "homepage": "https://github.com/thejohnfreeman/tslint-config-thejohnfreeman#readme",
+  "dependencies": {
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-react": "^3.6.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "peerDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  }
+}
